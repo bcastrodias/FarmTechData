@@ -8,8 +8,6 @@
 
 # FarmTech Data Logic
 
-## BMH
-
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/bruno-castro-dias/">Bruno Castro - RM558359</a>
 - <a href="https://www.linkedin.com/in/hugomariano191628150/">Hugo Mariano - rm560688</a>
