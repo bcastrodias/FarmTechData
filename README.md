@@ -6,7 +6,7 @@
 
 <br>
 
-# FertiPlan
+# FarmTech Data Logic
 
 ## BMH
 
@@ -24,6 +24,8 @@
 
 
 ## 📜 Descrição
+
+MER e DER da estrutura de dados da FarmTech, com o objetivo de ensejar sistema de armazenamento e análise dos dados coletados pelos sensores para ajustar a quantidade de produtos e água aplicados na plantação.
 
 # Entidades e seus Atributos
 
